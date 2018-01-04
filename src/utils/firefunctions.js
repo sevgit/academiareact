@@ -3,7 +3,7 @@ export const fetchQuestions = (dbref) => {
   
 
   function gotData(data) {
-    console.log(data.val())
+    
     preguntas = data.val();
   }
 
