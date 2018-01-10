@@ -1,16 +1,17 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
-
-import Main from './containers/Main'
+import Main from './containers/Main/index.js'
 
 
 
 
 class App extends Component {
+  
   render() {
+   
     return (
       <div className="App">
-        <Main />
+        <Main /> 
       </div>
     );
   }

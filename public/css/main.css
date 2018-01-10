@@ -1,0 +1,40 @@
+
+.spinner {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: lightgrey;
+    margin: 10px;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .spinner.spinner-1:after {
+    content: "";
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    box-sizing: content-box;
+    top: -4px;
+    left: -4px;
+    border-radius: 50%;
+    background-color: transparent;
+    border: 4px solid transparent;
+    border-top-color: teal;
+    border-bottom-color: teal;
+    animation: rotate 1s ease-in-out infinite;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg) scale(1)
+    }
+    50% {
+      transform: rotate(180deg) scale(1.2)
+    }
+    100% {
+      transform: rotate(360deg) scale(1)
+    }
+  }
+  
+  

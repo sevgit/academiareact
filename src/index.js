@@ -1,15 +1,17 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import { Provider } from 'react-redux'
+import Store from './Store'
+import './index.css'
+import App from './App'
+import registerServiceWorker from './registerServiceWorker'
 
 import * as firebase from 'firebase'
 
   
   let config = {
-    apiKey: "AIzaSyDBZolyXfLHcyc24j_rUsPJigvXMmcnnLM",
     authDomain: "academia-lomas.firebaseapp.com",
+    apiKey: "AIzaSyDBZolyXfLHcyc24j_rUsPJigvXMmcnnLM",
     databaseURL: "https://academia-lomas.firebaseio.com",
     projectId: "academia-lomas",
     storageBucket: "academia-lomas.appspot.com",
@@ -19,5 +21,5 @@ import * as firebase from 'firebase'
   
   
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Provider store={Store}><App /></Provider>, document.getElementById('root'));
 registerServiceWorker();
