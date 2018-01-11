@@ -35,7 +35,7 @@ class Main extends Component {
     return (
       <div className="Main">
         
-        { this.state.preguntas.length > 0 ? <SingleQuestion  question={this.state.preguntas[this.state.step].pregunta} answers={this.state.preguntas[this.state.step].respuestas} img={null} correcta={this.state.preguntas[this.state.step].correctas}/> : <Spinner />}
+        { this.state.preguntas.length > 0 ? <SingleQuestion  question={this.state.preguntas[this.props.test.step].pregunta} answers={this.state.preguntas[this.props.test.step].respuestas} img={null} correcta={this.state.preguntas[this.props.test.step].correctas}/> : <Spinner />}
          
       </div>
     );

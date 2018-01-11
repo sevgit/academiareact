@@ -1,6 +1,6 @@
 let initialState = {
-    userAnswers: [1,2,3],
-    preguntas: [],
+    userAnswers: [],
+    questionnaire: [],
     step: 0
     
 }
@@ -8,8 +8,11 @@ let initialState = {
 export default function reducer(state=initialState, action) {
 
 	switch(action.type){
+		case "FETCH_QUESTIONS": {
+			return {...state, questionnaire: []}
+		}
 		case "ADD_ANSWER": {
-			return {...state, userAnswers: action.payload}
+			return {...state, userAnswers: [...state.userAnswers, action.payload], step: state.step +1}
 			
 		}
 		

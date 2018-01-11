@@ -12,12 +12,12 @@ class SingleQuestion extends Component {
     
 }
 handleClick(e, key) {
-  console.log(key)
+  
   e.preventDefault()
   this.props.addAnswer(key)
 }
   render() {
-    console.log("s",this.props)
+    
       return(
       <div className="singleQuestion">
       
