@@ -4,3 +4,10 @@ export const addAnswer = (answer) => {
         payload: answer,
     }
 }
+
+export const setQuestions = (data) => {
+    return {
+        type: "SET_QUESTIONS",
+        payload: data,
+    }
+}

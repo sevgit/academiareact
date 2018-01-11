@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux'
-import { addAnswer } from '../../actions/mainActions'
+import { addAnswer, setQuestions } from '../../actions/mainActions'
 import { bindActionCreators } from 'redux'
 import * as firefunctions from '../../utils/firefunctions'
 import * as firebase from 'firebase'
@@ -10,32 +10,24 @@ import Spinner from '../../components/Spinner'
 
 class Main extends Component {
 
-  constructor() {
-    super();
-    this.state = {
-     preguntas: [],
-     step: 0,
-     
-
-    }
+  constructor(props) {
+    super(props);    
   }
   
   componentDidMount() {
     const db = firebase.database();
     const preguntas = db.ref('preguntas');
     
-    firefunctions.fetchQuestions(preguntas).then(data => this.setState({
-      preguntas:data.val().preguntas.slice(0,30)
-    }))
+    firefunctions.fetchQuestions(preguntas).then(data => this.props.setQuestions(data.val().preguntas.slice(0,30)))
     
   }
   
   render() {
-    
+    console.log(this.props.test)
     return (
       <div className="Main">
         
-        { this.state.preguntas.length > 0 ? <SingleQuestion  question={this.state.preguntas[this.props.test.step].pregunta} answers={this.state.preguntas[this.props.test.step].respuestas} img={null} correcta={this.state.preguntas[this.props.test.step].correctas}/> : <Spinner />}
+        { this.props.test.questionnaire.length > 0 ? <SingleQuestion  question={this.props.test.questionnaire[this.props.test.step].pregunta} answers={this.props.test.questionnaire[this.props.test.step].respuestas} img={null} correcta={this.props.test.questionnaire[this.props.test.step].correctas}/> : <Spinner />}
          
       </div>
     );
@@ -51,7 +43,7 @@ function mapStateToProps(state) {
 }
 function mapDispatchToProps(dispatch) {
   return {
-    addAnswer: bindActionCreators(addAnswer,dispatch)
+    setQuestions: bindActionCreators(setQuestions,dispatch)
   }
 }
 export default connect(mapStateToProps,mapDispatchToProps)(Main);
