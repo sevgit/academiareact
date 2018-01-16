@@ -1,12 +1,12 @@
 import React from 'react';
-
+import './index.css'
 
 
 const Header = (props) => {
 
     return (
-      <div>
-        <img src='http://autoescuelalomas.com.uy/img/logo.png' />
+      <div className='header'>
+        <img src='http://www.academialomas.com.uy/img/logo.png' />
         
       </div>
 

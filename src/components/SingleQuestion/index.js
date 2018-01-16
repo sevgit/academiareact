@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux'
 import { addAnswer } from '../../actions/mainActions'
 import { bindActionCreators } from 'redux'
+import './index.css'
 
 class SingleQuestion extends Component {
 
@@ -23,14 +24,14 @@ handleClick(e, key) {
       
         <p>{this.props.question}</p>
         {this.props.img ? <img src={this.props.img}/> : null}
-        <ul className='singleQuestion'>
+        
         {this.props.answers.map((value,index) => 
           
           <button className='option' key={index} onClick={(e) => this.handleClick(e, index)}>
             {this.props.correcta === index ? <strong>{value} </strong> : value }
           </button>)}
 
-        </ul>
+        
         
       </div>
 
