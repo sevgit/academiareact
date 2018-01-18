@@ -12,7 +12,7 @@ export default function reducer(state=initialState, action) {
 			return {...state, questionnaire: action.payload}
 		}
 		case "ADD_ANSWER": {
-			return {...state, userAnswers: [...state.userAnswers, action.payload], step: state.step +1}
+			return {...state, userAnswers: [...state.userAnswers, action.payload.answer], step: action.payload.step}
 			
 		}
 		

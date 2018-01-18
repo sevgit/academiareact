@@ -15,7 +15,7 @@ class SingleQuestion extends Component {
 handleClick(e, key) {
   
   e.preventDefault()
-  this.props.addAnswer(key)
+  this.props.addAnswer(key, this.props.test.step)
 }
   render() {
     

@@ -7,7 +7,7 @@ import * as firebase from 'firebase'
 import SingleQuestion from '../../components/SingleQuestion'
 import Spinner from '../../components/Spinner'
 import './index.css'
-
+import Results from '../../components/Results'
 class Main extends Component {
 
   
@@ -32,8 +32,8 @@ class Main extends Component {
     return (
       <div className="Main">
         
-        { questionnaire.length > 0 ? <SingleQuestion question={questionnaire[step].pregunta} answers={questionnaire[step].respuestas} img={null} correcta={questionnaire[step].correctas}/> : <Spinner />}
-         
+        { questionnaire.length > 0 ? <SingleQuestion question={questionnaire[step].pregunta} answers={questionnaire[step].respuestas} img={null} correcta={questionnaire[step].correctas}/>  : <Spinner />}
+        <Results answersArray={this.props.test.userAnswers} questionnaire={questionnaire}/>
       </div>
     );
   }

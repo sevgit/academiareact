@@ -1,7 +1,14 @@
-export const addAnswer = (answer) => {
+export const addAnswer = (answer, step) => {
+
+    if (step >= 29) {
+        return {
+            type: 'ADD_ANSWER',
+            payload: {answer: answer, step: step },
+        }
+    }
     return {
         type: 'ADD_ANSWER',
-        payload: answer,
+        payload: {answer: answer, step: step + 1 },
     }
 }
 
