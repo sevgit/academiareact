@@ -1,15 +1,29 @@
-
+:root {
+    --brand: #76ba16;
+}
 
 .Main {
     display: grid;
     font-family: sans-serif;
-   --brand: #76ba16;
+   
   grid-column-gap: 5px;
   grid-template-columns: 1fr 3fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: auto auto;
   
   grid-template-areas:
     "ws1 content ws2"
     "ws1 results ws2"
+}
+
+@media (max-width: 500px) {
+    .Main {
+        
+      grid-template-columns: 1fr;
+      
+      margin:0 7px;
+      grid-template-areas:
+        "content"
+        "results"
+    }
 }
 
