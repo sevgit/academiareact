@@ -20,3 +20,12 @@
     font-weight: 700;
  
 }
+
+.APROBADO {
+    color: var(--brand);
+
+}
+
+.REPROBADO {
+    color: crimson;
+}

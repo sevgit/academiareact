@@ -23,7 +23,7 @@ const Header = (props) => {
     return (
       
       <div className='results'>
-      <h2>Resultado: {score.result} </h2>
+      <h2>Resultado: <span className={score.result}>{score.result}</span> </h2>
       <p>Correctas: {score.total}/30</p>
       <ul>
           {props.answersArray.map((value, index) => 

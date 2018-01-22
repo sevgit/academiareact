@@ -2,7 +2,7 @@
     width: 25px;
     height: 25px;
     border-radius: 50%;
-    background-color: teal;
+    background-color: var(--brand, teal);
     margin: 10px;
     position: relative;
     display: inline-block;
@@ -19,8 +19,8 @@
     border-radius: 50%;
     background-color: transparent;
     border: 4px solid transparent;
-    border-top-color: teal;
-    border-bottom-color: teal;
+    border-top-color: var(--brand, teal);
+    border-bottom-color: var(--brand, teal);
     animation: rotate 1s ease-in-out infinite;
   }
   
