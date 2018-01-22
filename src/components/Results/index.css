@@ -1,3 +1,22 @@
 .results {
     grid-area:results
 }
+
+.results ul {
+    font-weight: 600;
+}
+.results__li {
+    border-bottom: 1px solid #ddd;
+    padding: 5px;
+    font-size: 14px;
+
+
+}
+
+
+
+.results__correctAnswer {
+    color: var(--brand, red);
+    font-weight: 700;
+ 
+}
