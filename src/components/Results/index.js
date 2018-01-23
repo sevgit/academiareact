@@ -1,4 +1,5 @@
 import React from 'react';
+import {testConfig} from '../../utils/config'
 import './index.css'
 
 
@@ -15,7 +16,7 @@ function scoreCard(q, a) {
   }
 }) 
   score.total = scoreCard;
-  score.result = scoreCard >= 25 ? "APROBADO" : "REPROBADO" ;
+  score.result = scoreCard >= testConfig.minimumScore ? "APROBADO" : "REPROBADO" ;
 }
 
 const Header = (props) => {
@@ -24,7 +25,7 @@ const Header = (props) => {
       
       <div className='results'>
       <h2>Resultado: <span className={score.result}>{score.result}</span> </h2>
-      <p>Correctas: {score.total}/30</p>
+      <p>Correctas: {score.total}/{testConfig.requiredAnswers}</p>
       <ul>
           {props.answersArray.map((value, index) => 
                     /**/

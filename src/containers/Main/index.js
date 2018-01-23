@@ -31,7 +31,7 @@ class Main extends Component {
     let step = this.props.test.step;
     return (
       <div className="Main">
-        
+
         { questionnaire.length > 0 ? <SingleQuestion question={questionnaire[step].pregunta} answers={questionnaire[step].respuestas} img={null} correcta={questionnaire[step].correctas}/>  : <Spinner />}
         <Results answersArray={this.props.test.userAnswers} questionnaire={questionnaire}/>
       </div>

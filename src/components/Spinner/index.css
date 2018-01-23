@@ -1,9 +1,11 @@
 .spinner {
+    grid-area:content;
+    
     width: 25px;
     height: 25px;
     border-radius: 50%;
     background-color: var(--brand, teal);
-    margin: 10px;
+    margin: 10px auto;
     position: relative;
     display: inline-block;
   }

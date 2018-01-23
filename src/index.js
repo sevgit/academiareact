@@ -5,20 +5,13 @@ import Store from './Store'
 import './index.css'
 import App from './App'
 import registerServiceWorker from './registerServiceWorker'
-
+import {firebaseConfig} from './utils/config'
 
 import * as firebase from 'firebase'
 
   
-  let config = {
-    authDomain: "academia-lomas.firebaseapp.com",
-    apiKey: "AIzaSyDBZolyXfLHcyc24j_rUsPJigvXMmcnnLM",
-    databaseURL: "https://academia-lomas.firebaseio.com",
-    projectId: "academia-lomas",
-    storageBucket: "academia-lomas.appspot.com",
-    messagingSenderId: "537654016832"
-  };
-  firebase.initializeApp(config)
+  
+  firebase.initializeApp(firebaseConfig)
   
   
 
