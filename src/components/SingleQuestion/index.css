@@ -1,7 +1,7 @@
 .singleQuestion {
     grid-area: content;
     text-align: center;
-    
+    font-size: 20px;
 }
 
 .option {
@@ -24,4 +24,10 @@
 
 .option:hover {
     transform: scale(1.1);
+}
+
+span.brand {
+    color: var(--brand, red);
+    font-weight: 700;
+    
 }

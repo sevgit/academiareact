@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux'
 import { addAnswer } from '../../actions/mainActions'
 import { bindActionCreators } from 'redux'
-
+import {testConfig} from '../../utils/config'
 import SingleOption from '../SingleOption'
 import './index.css'
 
@@ -47,10 +47,9 @@ handleClick(e, key) {
         {this.props.answers.map((value,index) => 
           
           <SingleOption index={index} option={value} onClick={(e) => this.handleClick(e, index)}  />
-          /* <button className='option' key={index} onClick={(e) => this.handleClick(e, index)}>
-            {value}
-          </button> */
         )}
+
+        <p>Pregunta {this.props.test.step}/<span className="brand">{testConfig.requiredAnswers}</span></p>
           </div>
         
         
