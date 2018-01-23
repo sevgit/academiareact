@@ -3,7 +3,7 @@ export const testConfig = {
     requiredAnswers: 30,
     //The minimum score to pass the test.
     minimumScore: 25,
-    //firebase config
+    
    
     
 }
