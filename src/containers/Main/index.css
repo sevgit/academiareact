@@ -5,7 +5,7 @@
 .Main {
     display: grid;
     font-family: sans-serif;
-   
+    margin-top:35px;
   grid-column-gap: 5px;
   grid-template-columns: 1fr 3fr 1fr;
   grid-template-rows: auto auto;
@@ -27,3 +27,17 @@
     }
 }
 
+.fadeoutleft {
+    animation: fadeOutLeft 282ms forwards;
+    
+}
+@keyframes fadeOutLeft {
+    0% {
+       opacity: 1;
+       transform: translateX(0);
+    }
+    100% {
+       opacity: 0;
+       transform: translateX(-20px);
+    }
+ } 
