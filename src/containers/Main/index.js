@@ -17,13 +17,13 @@ class Main extends Component {
   constructor(props) {
     super(props);    
 
-    this.statusCheck = this.statusCheck.bind(this);
+    
   }
 
 statusCheck() {
   const questionnaire = this.props.test.questionnaire;
   const step = this.props.test.step;
-  
+
     if (questionnaire.length > 1 && step < testConfig.requiredAnswers) {
       return <SingleQuestion 
                 question={questionnaire[step].pregunta} 

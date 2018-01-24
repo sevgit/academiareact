@@ -2,3 +2,32 @@
   padding:0;
   margin:0;
 }
+
+:root {
+  --brand: #76ba16;
+}
+
+.App {
+  display: grid;
+  font-family: sans-serif;
+  height: 100vh;
+  max-width:100%;
+  grid-column-gap: 5px;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-rows: auto 1fr auto;
+  grid-template-areas:
+  "ws1 header ws2"
+  "ws1 content ws2"
+  "ws1 footer ws2"
+}
+
+@media (max-width: 500px) {
+  .App {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas:
+    "header"
+    "content"
+    "footer"
+  }
+}
