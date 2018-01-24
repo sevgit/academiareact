@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux'
-import { addAnswer, setQuestions } from '../../actions/mainActions'
+import { setQuestions } from '../../actions/mainActions'
 import { bindActionCreators } from 'redux'
 import * as firefunctions from '../../utils/firefunctions'
 import * as firebase from 'firebase'
@@ -8,15 +8,34 @@ import SingleQuestion from '../../components/SingleQuestion'
 import Spinner from '../../components/Spinner'
 import './index.css'
 import Results from '../../components/Results'
+
+import {testConfig} from '../../utils/config'
+
 class Main extends Component {
 
   
   constructor(props) {
     super(props);    
 
-    
+    this.statusCheck = this.statusCheck.bind(this);
   }
+
+statusCheck() {
+  const questionnaire = this.props.test.questionnaire;
+  const step = this.props.test.step;
   
+    if (questionnaire.length > 1 && step < testConfig.requiredAnswers) {
+      return <SingleQuestion 
+                question={questionnaire[step].pregunta} 
+                answers={questionnaire[step].respuestas} 
+                img={null} 
+                correcta={questionnaire[step].correctas}/>
+    } else if (questionnaire.length < 1) {
+      return <Spinner />
+    } else {
+      return <Results answersArray={this.props.test.userAnswers} questionnaire={questionnaire}/>
+    }
+  }
   componentDidMount() {
     const db = firebase.database();
     const preguntas = db.ref('preguntas');
@@ -27,13 +46,11 @@ class Main extends Component {
   }
   
   render() {
-    let  questionnaire = this.props.test.questionnaire;
-    let step = this.props.test.step;
+    
     return (
       <div className="Main">
-
-        { questionnaire.length > 0 ? <SingleQuestion question={questionnaire[step].pregunta} answers={questionnaire[step].respuestas} img={null} correcta={questionnaire[step].correctas}/>  : <Spinner />}
-        <Results answersArray={this.props.test.userAnswers} questionnaire={questionnaire}/>
+        {this.statusCheck()}
+        
       </div>
     );
   }

@@ -46,7 +46,7 @@ handleClick(e, key) {
         <div className="singleQuestion__optionList">
         {this.props.answers.map((value,index) => 
           
-          <SingleOption index={index} option={value} onClick={(e) => this.handleClick(e, index)}  />
+          <SingleOption key={index} index={index} option={value} onClick={(e) => this.handleClick(e, index)}  />
         )}
 
         <p>Pregunta {this.props.test.step}/<span className="brand">{testConfig.requiredAnswers}</span></p>
