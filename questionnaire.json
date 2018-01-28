@@ -1,0 +1,1678 @@
+{
+	"preguntas": [{
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Cómo se señaliza un giro hacia la derecha en caso de tener el señalero averiado?",
+			"img": ""
+		},
+		"options": ["brazo y mano hacia abajo.", "brazo y mano hacia arriba.", "brazo y mano rectos.", "bocina y luces de freno."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "El alcohol afecta el nivel atencional del individuo",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Cuál es la distancia máxima permitida entre las ruedas y el cordón al estacionar?",
+			"img": ""
+		},
+		"options": ["30cm.", "5cm.", "50cm.", "70cm."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Ante la proximidad de vehículos de emergencia",
+			"img": ""
+		},
+		"options": ["debe detener su vehículo.", "debe avisar con las luces al vehículo que le antecede.", "debe aumentar la velocidad.", "debe despejar rápidamente la calle, deteniendo su vehículo donde no moleste."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Cuando usted dobla a la derecha:",
+			"img": ""
+		},
+		"options": ["debe acercar su vehículo a la izquierda, encender el señalero y doblar con precaución.", "debe encender el señalero derecho.", "debe mirar por el espejo retrovisor, encender el señalero y acercarse al cordón derecho."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Si es imposible estacionar dejando paso a la circulación de vehículos ud:",
+			"img": ""
+		},
+		"options": ["Estaciona en doble fila", "Estaciona parte del auto sobre la acera", "Busca un lugar seguro para estacionar en otro lugar", "Enciende las balizas y estaciona en doble fila"]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "puente-estrecho.jpg"
+		},
+		"options": ["Carril angosto", "Puente estrecho", "Supresión de carril", "Paso a nivel sin barrera"]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Al momento de ser adelantado por otro vehículo, usted:",
+			"img": ""
+		},
+		"options": ["Mantiene o disminuye la velocidad", "Aumenta la velocidad", "Enciende el señalero derecho para dar paso a la maniobra", "Se acerca al carril izquierdo."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "En un cruce no reglamentado, ¿qué auto debe ceder la preferencia?",
+			"img": ""
+		},
+		"options": ["El último en llegar al cruce", "El que se acerca por la izquierda", "El primero en llegar al cruce", "El que se acerca por la derecha"]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Si explota uno de nuestros neumáticos debemos:",
+			"img": ""
+		},
+		"options": ["Sostener fuerte el volante y dirigirnos a un lugar seguro", "Acelerar hacia la acera y estacionar lo antes posible", "Colocar el freno de mano y torcer las ruedas hacia la acera", "Encender balizas, tocar bocina y frenar en el lugar"]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Los medicamentos pueden",
+			"img": ""
+		},
+		"options": ["Generar somnolencia", "Aportar negativamente a la fatiga", "Relentizar la reacción del conductor", "Todas son correctas"]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-girar-u.jpg"
+		},
+		"options": ["Prohibido girar en U", "Prohibido dar marcha atrás", "Prohibido doblar", "Calzada de un único sentido"]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "calzada-resbaladiza.jpg"
+		},
+		"options": ["Proyección de gravilla", "Peligro de aceite", "Calzada resbaladiza", "Curva peligrosa"]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Podemos adelantar en un repecho?",
+			"img": ""
+		},
+		"options": ["No", "Solo con extremo cuidado", "Solo en calles de un único sentido", "Se puede siempre"]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué no podemos hacer en presencia de esta señal?",
+			"img": "prohibido-estacionar-detenerse.jpg"
+		},
+		"options": ["Estacionar", "Ni estacionar ni detenernos", "Detenernos", "Estacionar sin permiso especial"]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Derecho preferente de paso es:",
+			"img": ""
+		},
+		"options": ["La facultad de un peatón o conductor de un vehículo para proseguir la marcha", "La facultad del conductor de un vehículo para cambiar de dirección careciendo de preferencia", "La facultad del conductor de un vehículo para no detener la marcha al ingresar a una calle de preferencia", "Ninguna de las anteriores es correcta"]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "En carretera se debe aminorar la marcha en:",
+			"img": ""
+		},
+		"options": ["Zonas urbanas y caseríos.", "Curvas y cruces.", "Pasos a nivel y puentes.", "Todas las anteriores son correctas."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "El tiempo de reacción del conductor se ve afectado por:",
+			"img": ""
+		},
+		"options": ["El estado de la ruta.", "La velocidad a la cual conduce.", "El cansancio.", "Los defectos mecánicos del vehículo."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Los funcionarios del cuerpo de inspectores de tránsito, están facultados para modificar las preferencias establecidas cuando las circunstancias lo requieran:",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Al conducir en carretera su fatiga aumenta si:",
+			"img": ""
+		},
+		"options": ["A. se escucha música.", "B. se viaja con ventanilla cerrada.", "C. el paisaje es monótono.", "D. solo la B y C son correctas."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "¿Qué luces debe llevar encendidas un vehículo durante la noche en las áreas urbanas?",
+			"img": ""
+		},
+		"options": ["A. luces altas o bajas de acuerdo a la situación del tránsito.", "B. cualquiera indistintamente.", "C. luces de posición.", "D. solo la A y C son correctas"]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Si su vehículo comienza a patinar al momento de frenar:",
+			"img": ""
+		},
+		"options": ["procure detenerlo bombeando intermitentemente el freno.", "frene enérgicamente.", "acelere.", "todas las anteriores son incorrectas."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Cuando se trata de evitar un choque de frente en carretera Ud deberá:",
+			"img": ""
+		},
+		"options": ["frenar.", "rebajar los cambios.", "desviarse hacia la banquina.", "encender las luces largas."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Siempre se debe prestar atención a la luz del semáforo que está frente a uno:",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "¿Para quién es obligatorio el uso del cinturón de seguridad?",
+			"img": ""
+		},
+		"options": ["sólo para los ocupantes de los asientos traseros de los vehículos automotores.", "sólo para los ocupantes de los asientos delanteros de los vehículos automotores.", "ninguna de las anteriores.", "para todos los ocupantes del vehículo."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Ud. puede circular sin espejo retrovisor cuando circula a baja velocidad",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "La velocidad adecuada de circulación de un vehículo en caso de aglomeración de personas es:",
+			"img": ""
+		},
+		"options": ["15 km/h", "a paso de peatón.", "25 km/h", "ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Durante la noche en áreas urbanas los vehículos deben circular con todas las luces reglamentarias encendidas.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Cómo se comporta Ud. frente a un agente de tránsito de perfil hacia su carril?",
+			"img": ""
+		},
+		"options": ["detiene totalmente la marcha.", "espera a que se vacíe el cruce.", "sigue la marcha."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Al encontrar a un accidentado Ud. debe:",
+			"img": ""
+		},
+		"options": ["quitarle el casco en caso de tenerlo puesto.", "proporcionarle comida o alimento si lo solicita.", "promover la calma y llamar a la emergencia.", "todas las anteriores son correctas."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "En condiciones de tránsito comunes, un vehículo podrá ser conducido marcha atrás sólo:",
+			"img": ""
+		},
+		"options": ["50 mts.", "35 mts.", "en caso de necesidad para estacionar.", "ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Los inspectores de las intendencias y/o policía de tránsito están facultados al retiro de la documentación del conductor y/o vehículo.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Antes de empezar a pasar el vehículo que va adelante, Ud. deberá:",
+			"img": ""
+		},
+		"options": ["mirar espejo retrovisor y prender el señalero.", "tocar la bocina.", "hacer cambio de luces.", "ninguna de las anteriores es correcta.", "todas las anteriores son correctas."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Si Ud. esta cruzando una calle, la luz amarilla de un semáforo indica:",
+			"img": ""
+		},
+		"options": ["atención, obligación a despejar el cruce.", "derecho de paso.", "detenerse.", "despacio, escuela."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Solo se puede adelantar a otro vehículo por la derecha si éste esta girando o se dispone a girar a la izquierda:",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Los funcionarios del cuerpo de inspectores de tránsito están facultados para modificar las preferencias establecidas cuando las circunstancias lo requieran:",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Cuando los neumáticos tienen poca presión de aire, se ahorra combustible:",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "El uso del cinturón de seguridad es tan importante en la ciudad como en la carretera:",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Es necesario duplicar la distancia entre su vehículo y el que lo antecede en:",
+			"img": ""
+		},
+		"options": ["amanecer", "atardecer", "pavimento resbaloso", "todas las anteriores son correctas"]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "En los días de lluvia se debe disminuir la velocidad aunque las condiciones del vehículo sean óptimas",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Un disgusto (alteraciones, discusiones, depresión) afecta:",
+			"img": ""
+		},
+		"options": ["la visión lateral", "la audición", "el tiempo de reacción", "ninguna de las anteriores es correcta"]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "En una bajada pronunciada para mayor seguridad, debe poner el vehículo en punto muerto:",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La calle es el tramo de la vía pública destinado preferentemente a:",
+			"img": ""
+		},
+		"options": ["la circulación de cualquier tipo de vehículos automotores", "solamente la circulación de peatones", "solamente la circulación de vehículos medianos"]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Con el coche cargado las distancias para detenerse serán menores",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Cuando se maneja por períodos de mas de cuatro horas se deberá descansar por lo menos:",
+			"img": ""
+		},
+		"options": ["10 minutos", "20 minutos", "50 minutos", "60 minutos"]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "La distancia prudencial entre dos vehículos que circulan en la misma dirección, es aquella que permite al conductor ver las ruedas traseras del vehículo que va adelante:",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Los objetos duros y con puntas depositados en los estantes delanteros y traseros, se pueden convertir en proyectiles peligrosos en una frenada brusca",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Aún tomando descansos, no se deberá conducir por más de 9 horas contínuas",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué debe hacer un conductor al iniciar un giro a la izquierda desde una calle de doble mano?",
+			"img": ""
+		},
+		"options": ["aproximarse a la linea central o eje de la calle, señalizando con suficiente anticipación.", "ubicarse sobre el lado izquierdo del eje de la calzada.", "acercarse lo más a la derecha posible.", "ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Los peatones que circulan por la vereda tienen preferencia de paso ante un vehículo que la atraviesa para entrar o salir de un garaje.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Los vehículos que tengan sus neumáticos con bandas de rodamiento gastadas",
+			"img": ""
+		},
+		"options": ["podrán circular solo de noche.", "podrán circular solo de día.", "no podrán circular."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Cuando se trata de evitar un choque de frente en carretera Ud. deberá",
+			"img": ""
+		},
+		"options": ["frenar.", "colocar las luces cortas.", "desviarse hacia la banquina si el coche es inevitable.", "rebajar un cambio."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "El conductor de un vehículo puede sobrepasar a otro por la derecha cuando:",
+			"img": ""
+		},
+		"options": ["el vehículo de adelante va a doblar a la derecha.", "el vehículo de adelante va a doblar a la izquierda.", "nunca.", "el vehículo de adelante da paso a otros."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "En caso de quedarse sin frenos, cuando el pedal ofrece algo de resistencia lo primero a intentar es bombearlo varias veces",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Las bebidas alcohólicas tomadas junto con algunos antialérgicos disminuyen la capacidad de conducir",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Con mucha carga en la valija del automovil se afectará",
+			"img": ""
+		},
+		"options": ["A. el consumo de combustible.", "B. el mecanismo de la dirección.", "C. la altura de los faros delanteros.", "D. solo la B y C son correctas."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Cuando llueve:",
+			"img": ""
+		},
+		"options": ["debe circular en el centro de la calzada.", "debe circular a la derecha del centro de la calzada.", "ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Si observa que encienden las luces blancas del vehículo, ello significa:",
+			"img": ""
+		},
+		"options": ["que da marcha atrás.", "que se dispone a pasar a otro.", "que va a frenar.", "que va a girar a la derecha."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Hasta los 70 años de edad no se altera la rapidez para reaccionar",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "El ruido que produce el silenciador en mal estado no aumenta la fatiga del conductor",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Las intendencias están facultadas para retirar de la vía pública los vehículos mal estacionados o estacionados en lugar prohibido",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Por norma general Ud. debe circular por la izquierda de la calzada",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Las rutas nacionales son la única via de circulación de preferencia aún cuando las transversales no tengan el signo de PARE",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Ante destellantes amarillos instalados en las cercanías de las escuelas: ¿a qué velocidad debe circular?",
+			"img": ""
+		},
+		"options": ["15 km/h", "A paso de peatón.", "25 km/h", "Ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Nunca debe adelantarse a un vehículo que esta doblando a la derecha",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Adelantamiento correcto es una maniobra efectuada:",
+			"img": ""
+		},
+		"options": ["por el costado izquierdo del vehículo que se va a adelantar.", "por el costado derecho del vehículo que se va a adelantar.", "por la banquina si la hubiere.", "nunca se debe adelantar."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Para conducir adecuadamente es importante observar la luz del semáforo que está frente a Ud.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué tramo de la calle se debe utilizar exclusivamente para manejar un vehículo?",
+			"img": ""
+		},
+		"options": ["la banquina.", "la calzada.", "la acera.", "ninguna de las anteriores son correctas."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Tienen preferencia de paso cuando hagan las señales correspondientes:",
+			"img": ""
+		},
+		"options": ["las ambulancias.", "patrulleros y bomberos", "los vehículos del departamento de tránsito.", "todas las anteriores son correctas"]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Al encontrarse la calle mojada por la lluvia ¿qué debe hacer Ud.?",
+			"img": ""
+		},
+		"options": ["A. disminuir la velocidad.", "B. aumentar la velocidad.", "C. estar atento a frenar.", "D. solo la A y C son correctas."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "La velocidad máxima a la que debe conducir en la zona urbana, salvo expresas excepciones es:",
+			"img": ""
+		},
+		"options": ["20 km/h", "45 km/h", "60 km/h", "ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Para señalizar con el brazo la disminución de la velocidad o detención del vehículo, se deberá colocar:",
+			"img": ""
+		},
+		"options": ["extendido horizontalmente.", "en ángulo recto hacia abajo.", "extendido hacia abajo.", "ninguna de las opciones es correcta."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Las luces largas deberán sustituirse por las de alcance medio cuando haya riesgo de encandilarse",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Cuando un automóvil al salir del garaje cruza la vereda, obtiene la preferencia sobre los peatones que circulan en ella",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "La visión se reduce:",
+			"img": ""
+		},
+		"options": ["en horas de la noche.", "con el encandilamiento.", "cuando mayor velocidad se desarrolla.", "todas son correctas."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "El color de las luces que proyectan hacia adelante los vehículos pueden ser:",
+			"img": ""
+		},
+		"options": ["rojas o blancas.", "amarillas o blancas.", "verdes o blancas.", "ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Durante la carga de combustible se puede dejar el motor encendido",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "En las calles de doble sentido los vehículos que circulen en sentido opuesto al cruzarse:",
+			"img": ""
+		},
+		"options": ["deberán encender las luces bajas.", "deberán circular por el eje de la calzada demarcada o imaginaria.", "no pasarán el eje de la calzada demarcada o imaginaria.", "hacer un destello de luces."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Por norma general Ud. debe circular por la mitad derecha de la calzada",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Un conductor al enfrentar una señal de 'Ceda el Paso' deberá:",
+			"img": ""
+		},
+		"options": ["detenerse siempre.", "seguir la marcha a la misma velocidad.", "reducir la velocidad y detenerse siempre si es necesario.", "acelerar."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Nunca debe adelantarse a un vehículo que está dando paso a peatones",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La vereda es el tramo de vía pública preferentemente destinado a:",
+			"img": ""
+		},
+		"options": ["el uso de peatones.", "el uso de vehículos automotores.", "otros usos.", "ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "En el cruce cuyos semáforos se encuentran apagados o descompuestos la preferencia será de:",
+			"img": ""
+		},
+		"options": ["los que circulan por una avenida.", "los vehículos que aparecen por la derecha.", "los que llegan primero al cruce.", "los vehículos que aparecen por la izquierda."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Debe prestar atención de no encandilar a los que vienen en sentido contrario usando las luces cortas",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Usted puede circular sin espejo retrovisor cuando el vehículo sea de transporte de carga",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "En pavimento mojado nunca se debe circular con el vehículo en punto muerto",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "La velocidad adecuada de circulación frente a escuelas en horarios de entrada o salida es",
+			"img": ""
+		},
+		"options": ["15 km/h", "A paso de peatón.", "25 km/h", "Ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Si Ud. debe estacionar en bajada",
+			"img": ""
+		},
+		"options": ["deja derecho el auto y aplica freno de mano.", "deja derecho el auto y le pone cambio.", "aplica el freno de mano y gira las ruedas hacia el cordón de la vereda.", "aplica el freno de mano y gira las ruedas contrario al cordón de la vereda."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Ante la siguiente señal, usted puede circular a:",
+			"img": "velodidad-maxima.jpg"
+		},
+		"options": ["60 km/h como máximo.", "60 km/h o más.", "45 km/h como máximo.", "ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Un vehículo que circula a 60 km/h necesita para detenerse",
+			"img": ""
+		},
+		"options": ["10 metros.", "25 metros.", "media cuadra.", "2 cuadras."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Cuando un vehículo sufre un desperfecto en la carretera se debe colocar la baliza o triángulo por lo menos a 50 metros",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Esta terminantemente prohibido estacionar",
+			"img": ""
+		},
+		"options": ["en la mitad de la cuadra.", "en la acera derecha de las calles de un solo sentido.", "en la puerta de una escuela.", "a menos de 10 metros de una señal de PARE o de CEDA EL PASO"]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "En caso de incendio o inmersión el cinturón de seguridad le puede salvar la vida",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Ante irregularidades en la documentación o estado del vehículo, este puede ser detenido por un funcionario de tránsito, igual que la documentación (del conductor y del vehículo) previa entrega del recibo pertinente",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Si mientras va circulando revienta un neumático ¿Qué hace?",
+			"img": ""
+		},
+		"options": ["frena bruscamente.", "quita el pie del acelerador y gira por el lado que reventó el neumático.", "frena suavemente, arrimando el auto derecho hasta detenerse.", "apaga el motor."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "El peatón, ¿tiene preferencia de cruce en cualquier lugar de la calzada?",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Cuando va detras de un vehículo durante la noche deben usarse las luces cortas",
+			"img": ""
+		},
+		"options": ["en ningún momento.", "cuando la distancia haga innecesaria las luces largas.", "cuando la visibilidad sea muy buena.", "ninguna de las anteriores es correcta."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La preferencia de paso del vehículo de la derecha no regirá",
+			"img": ""
+		},
+		"options": ["en los cruces regulados por semáforos o agentes de tránsito.", "en las vías de doble tránsito.", "En los cruces no regulados."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Cuál es la edad mínima para poder viajar en el asiento delantero del vehículo?",
+			"img": ""
+		},
+		"options": ["1 año", "6 años", "12 años", "ninguna es correcta."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La preferencia de paso del vehículo de la derecha no regirá",
+			"img": ""
+		},
+		"options": ["en los cruces regulados por semáforos o agentes de tránsito.", "en las vías de doble tránsito.", "en los cruces no regulados."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "Un conductor al enfrentar una señal de PARE debe:",
+			"img": ""
+		},
+		"options": ["seguir su marcha a la misma velocidad.", "reducir un poco la velocidad y continuar.", "detener totalmente la marcha.", "reducir la velocidad y detenerse si fuera necesario."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Un cruce regulado:",
+			"img": ""
+		},
+		"options": ["es aquel en que existen semáforos funcionando regularmente, un inspector o agente de tránsito.", "es aquel en el que existe cualquier tipo de señal vertical u horizontal.", "ninguna es correcta."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Por norma general usted deberá circular por el eje de la calzada, salvo que transiten otros vehículos.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Un vehículo motorizado que está correctamente estacionado es aquel que está con:",
+			"img": ""
+		},
+		"options": ["A. el motor apagado.", "B. el freno de mano puesto.", "C. las ruedas en ángulo con el cordón.", "D. las respuestas A y B son correctas."]
+	}, {
+		"rightAnswer": 6,
+		"question": {
+			"text": "Está terminantemente prohibido estacionar:",
+			"img": ""
+		},
+		"options": ["A. en la mitad de la cuadra.", "B. en la acera derecha de las calles de doble sentido.", "C. en la puerta de una escuela.", "D. a menos de 10 metros de una señal de 'PARE' o 'CEDA EL PASO'.", "E. en los canteros centrales.", "F. en ángulo con el cordón.", "G. las respuestas D, E y F son correctas."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Cuál es la distancia mínima de seguridad que Ud. debe mantener con respecto al vehículo que circula delante?",
+			"img": ""
+		},
+		"options": ["el doble en metros de la velocidad en km/h.", " un cuarto en metros de la velocidad en km/h", "la mitad en metros de la velocidad en km/h.", "ninguna es correcta."]
+	}, {
+		"rightAnswer": 4,
+		"question": {
+			"text": {
+				"text": "Para enfrentar a futuras emergencias un conductor prudente debe tener en su vehículo:",
+				"img": ""
+			}
+		},
+		"options": ["A. un extintor.", "B. dos balizas o triángulos.", "C. un manual de funcionamiento del motor.", "D. juegos para entretener a los niños si viajan con ellos.", "E. las respuestas A, B y D son correctas."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "Los vehículos que tienen sus neumáticos con bandas de rodamiento gastadas (menos de 2mm de profundidad):",
+			"img": ""
+		},
+		"options": ["deben circular solo de noche.", "deben circular solo de día.", "pueden circular en cualquier horario.", "no pueden circular.", "deben circular a velocidades mínimas."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Cómo se comporta usted ante la siguiente señal?",
+			"img": "prohibido-girar-derecha.jpg"
+		},
+		"options": ["no puede girar a la derecha.", "no le da importancia pues sabe que nadie puede aparecer por la izquierda.", "Ud. solo puede girar a la derecha"]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué le indica la siguiente señal?",
+			"img": "conserve-su-derecha.jpg"
+		},
+		"options": ["que solo puede circular por la izquierda.", "que solo puede circular por la derecha.", "que debe circular temporalmente por la banquina."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "¿Qué le indica la siguiente señal?",
+			"img": "bifurcacion-en-t.jpg"
+		},
+		"options": ["la proximidad de una intersección.", "proximamente caserío.", "calle cerrada.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Al protagonizar un choque simple (sin heridos, solo daños materiales) se deberá despejar inmediatamente la calle.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso"]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Circulando delante de un vehículo de emergencia Ud. deberá aumentar la distancia que lo separa del mismo.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "A 60 km/H la visión lateral: ",
+			"img": ""
+		},
+		"options": ["disminuye un 25%", "disminuye un 50%", "no se altera.", "se reduce a visión de tubo."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Ante estas circunstancias: lluvia, atardecer, niebla, humo. ¿Con qué luces deberá circular?",
+			"img": ""
+		},
+		"options": ["luces cortas.", "luces largas.", "luces de posición.", "luces de freno."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Ud. puede usar la bocina de su vehículo para:",
+			"img": ""
+		},
+		"options": ["apurar al que va adelante.", "prevenir un accidente en caso de extrema necesidad.", "siempre, salvo cuando pasa frente un hospital", "para avisar que va a frenar."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa la siguiente señal?",
+			"img": "camino-sinuoso.jpg"
+		},
+		"options": ["camino sinuoso.", "se aproximan desniveles.", "curva y contracurva.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa la siguiente señal?",
+			"img": "calzada-estrecha2.jpg"
+		},
+		"options": ["supresión de carril izquierdo.", "supresión de carril derecho.", "calzada estrecha.", "puente estrecho."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa la siguiente señal?",
+			"img": "incorporacion-de-transito.jpg"
+		},
+		"options": ["incorporación de tránsito.", "bifurcación próxima.", "intersección.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa la siguiente señal?",
+			"img": "via-lateral.jpg"
+		},
+		"options": ["bifurcación en Y.", "desvío a la derecha", "via lateral.", "bifurcación en T."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa la siguiente señal?",
+			"img": "contramano.jpg"
+		},
+		"options": ["PARE.", "carril anulado.", "a contramano.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué avisa la siguiente señal?",
+			"img": "obras.jpg"
+		},
+		"options": ["la presencia de escolares.", "la ejecución de una obra en las inmediaciones.", "la proximidad de un hospital.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa la siguiente señal?",
+			"img": "zona-de-escolares.jpg"
+		},
+		"options": ["zona de escolares.", "paso de peatones.", "peatones con preferencia."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Los vehículos que circulen en un departamento deberán cumplir las normas nacionales exclusivamente.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Cuando un vehículo circula en calzadas de doble sentido puede invadir el carril contrario para adelantar.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Cuando circula en calzadas de doble sentido puede invadir el carril si existen obstáculos, perdiendo la preferencia frente a vehículos que circulan de frente.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Cuando circula en calzadas de doble sentido puede invadir el carril si existen obstáculos, manteniendo la preferencia frente a vehículos que circulan de frente.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Cuando circula en calzadas de doble sentido, se encuentra con obstáculos sobre su carril y en sentido contrario circulan vehículos. ¿Tiene Ud. la preferencia de paso?",
+			"img": ""
+		},
+		"options": ["si.", "no."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Se puede conducir a velocidad tan baja que obstaculice o impida la circulación de otros vehículos.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Se puede adelantar a un vehículo que haya iniciado igual maniobra",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Se puede adelantar un vehículo, si el vehículo que circula detrás ya inició la misma maniobra",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Si un vehículo lo está adelantando, Ud debe aumentar la velocidad.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Si un vehículo lo está adelantando, Ud debe acercarse a la derecha de la calzada y no aumentar la velocidad.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "En caso de no poseer luces bajas en funcionamiento se debe circular con luces altas.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "El uso del cinturón de seguridad es obligatorio solo para circular en rutas nacionales.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "El uso del cinturón de seguridad es obligatorio solo en las plantas urbanas.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "El uso del cinturón de seguridad es obligatorio solo si va a circular una distancia de más de 1km.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Es obligatorio el uso del casco protector para los usuarios de motocicletas.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Las señales de reglamentación establecen prohibiciones o restricciones sobre el uso de la vía pública.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La luz roja intermitente del semáforo indica que debe detenerse y el derecho a seguir queda regido por las normas que rigen después de haberse detenido frente al signo de pare.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La luz amarilla o ámbar continua del semáforo advierte que debe tomar las precauciones para detenerse o despejar el cruce.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "La luz amarilla o ámbar continua del semáforo advierte que puede realizar le cruce si aún no lo ha iniciado.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La luz roja y la flecha verde del semáforo indica que puede acceder cuidadosamente al cruce y proseguir en la dirección indicada.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Las señales de los agentes que dirigen el tránsito prevalecen sobre las señales luminosas.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Si la luz del semáforo se encuentra de color verde y un agente de transito le indica que debe parar ¿debe hacerlo?",
+			"img": ""
+		},
+		"options": ["si.", "no."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Todo conductor implicado en un accidente de tránsito podrá retirarse del lugar antes de la llegada de las autoridades.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "En caso de participar de un accidente deberá señalizar adecuadamente el lugar.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "En caso de reusarse a realizar los exámenes de control de alcohol podrá presumirse culpabilidad.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Los menores de 12 años deben viajar solo en los asientos traseros.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "El uso del teléfono celular durante la conducción aumenta el riesgo de accidentes.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Se puede conducir vehículos mientras utiliza el teléfono celular",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Es obligatorio declarar a la autoridad que expidió su licencia todos los cambios de domicilio.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Las matrículas originales pueden sustituirse por réplicas de las mismas.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Se debe circular con placas de matrículas en un lugar visible.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Si a Ud. se le extravía o le sustraen su licencia queda habilitado a conducir con la constancia de denuncia policial.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Si se enfrenta a un agente de tránsito de frente con la mano en alto, ¿puede seguir avanzando?",
+			"img": ""
+		},
+		"options": ["si.", "no."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Ud. debe detenerse si tiene un agente de tránsito de frente con la mano en alto.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Las indicaciones de los agentes de tránsito prevalecen sobre las de cualquier otro dispositivo de señalización.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Los cambios de dirección, disminución de velocidad y demás maniobras que alteran la marcha de un vehículo deben ser advertidas con anticipación.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Todo vehículo para transitar en la vía pública, deberá poseer elementos de seguridad, matafuego, valizas o dispositivos reflectantes independientes.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "El uso de la bocina solo se permite para ser utilizada para prevenir un accidente en caso de extrema necesidad.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Es obligatorio en los vehículos el uso del espejo retrovisor.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Un conductor al enfrentar una señal de PARE, deberá reducir la velocidad y continuar la marcha.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Un conductor al enfrentar una señal de PARE, deberá detener totalmente la marcha.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Un conductor al enfrentarse a un cartel de PARE, deberá reducir la velocidad y detenerse si fuera necesario.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Esta permitido estacionar a menos de 10 mts de una señal de pare o ceda el paso.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Un conductor deberá llevar los documentos que acreditan estar habilitados como tal.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "La velocidad máxima de circulación en zonas urbanas y suburbanas salvo expresas excepciones es de 60km/h.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La velocidad máxima de circulación en zonas urbanas y suburbanas salvo expresas excepciones es de 45km/h.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Los vehículos de emergencia tienen siempre la preferencia cuando estos emiten las señales fónicas y luminosas reglamentarias.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "La calzada esta reservada para el uso de los peatones.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La calzada esta reservada para el uso de vehículos.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Las aceras estan reservadas para el uso de peatones.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Tiene preferencia un vehículo que en vias de similar importancia aparece a su derecha en intersección no señalizada?",
+			"img": ""
+		},
+		"options": ["si.", "no."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Tiene preferencia un vehículo que en vias de similar importancia aparece a su izquierda en intersección no señalizada?",
+			"img": ""
+		},
+		"options": ["si.", "no."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Para girar a la derecha hay que señalizar la maniobra con las luces intermitentes del lado derecho y, siempre que sea necesario, el brazo extendido para arriba.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Para girar a la izquierda hay que señalizar la maniobra con las luces intermitentes del lado izquierdo y, siempre que sea necesario, el brazo extendido horizontalmente.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Para disminuir considerablemente la velocidad hay que señalar con el brazo extendido para abajo.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Se puede detener o estacionar un vehículo al lado de otro vehículo estacionado en doble fila?",
+			"img": ""
+		},
+		"options": ["si.", "no."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Esta bien estacionar o detener un vehículo en un cruce peatonal.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Se puede estacionar o detener un vehículo en las paradas de transporte colectivo o taxímetros?",
+			"img": ""
+		},
+		"options": ["si.", "no."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Puede dejarse un vehículo estacionado en la vía pública con el motor encendido?",
+			"img": ""
+		},
+		"options": ["si.", "no."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Su vehículo debe llevar luces que iluminen la matrícula.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Su vehículo debe llevar dos luces de posición en la parte trasera.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Es posible recibir la licencia de conducir incluso si tiene multas pendientes de pago.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Cuando circula con las luces de alto alcante encendidas y en sentido contrario se aproximan vehículos debe disminuir el alcance de las mismas.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Cuando circula con las luces de bajo alcance encendidas y en sentido contrario se aproximan vehículos debe disminuir el alcance de las mismas.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Cuando no hay aceras el peatón debe desplazarse en sentido contrario al tránsito.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Cuando no hay aceras el peatón debe desplazarse en el mismo sentido que el tránsito.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Los cuidacoches tienen potestad de dirigir el tránsito.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Se puede cargar combustible aún cuando el motor está encendido.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La autoridad competente podrá exigir el retiro de los vehículos mal estacionados a costa de sus propietarios.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "Los conductores de motocicletas tienen las mismas obligaciones que los demas conductores salvo las que por naturaleza no sean aplicables.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Los conductores de motocicletas o ciclomotores pueden llevar cargas que afecten las normas de circulación.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Los conductores de motocicletas o ciclomotores pueden llevar cargas siempre que estén acondicionadas en un remolque.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Los conductores de motocicletas pueden llevar remolque.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "El uso del casco protector es obligatorio solo para los acompañantes.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "Si viaja en motocicletas o ciclomotores el uso del casco protector es solo obligatorio para el conductor.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "La vía es una carretera, calle o camino abierta a la circulación pública.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "El carril es la parte de la vía destinada al tránsito de una fila de vehículos.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "El documento que la autoridad competente otorga para conducir un vehículo se llama licencia de conducir.",
+			"img": ""
+		},
+		"options": ["verdadero.", "falso."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "altura-limitada.jpg"
+		},
+		"options": ["altura limitada.", "ancho máximo permitido.", "obstáculo a 4 metros.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "anchura-limitada.jpg"
+		},
+		"options": ["altura limitada.", "ancho limitado.", "carril de 3 metros.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "bicicletas.jpg"
+		},
+		"options": ["ciclistas.", "prohibido circular en bicicleta.", "carril solo para ciclistas.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "bifurcacion-en-y2.jpg"
+		},
+		"options": ["incorporación de tránsito.", "bifurcación en Y.", "desvío inminente.", "vía lateral."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "camino-aspero.jpg"
+		},
+		"options": ["caserío en la proximidad.", "lomo de burro.", "camino aspero."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "circulacion-obligatoria.jpg"
+		},
+		"options": ["prohibido girar a la derecha.", "circulación obligatoria.", "girar a la derecha solamente.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "curva-contracurva2.jpg"
+		},
+		"options": ["curva y contracurva.", "camino sinuoso.", "desvío próximo.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "curva-peligrosa.jpg"
+		},
+		"options": ["curva prolongada.", "desvío a la izquierda.", "giro a la derecha.", "curva peligrosa."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "curva-pronunciada-en-s.jpg"
+		},
+		"options": ["curva pronunciada en 'S'.", "curva y contracurva.", "curva prolongada.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "curva-pronunciada2.jpg"
+		},
+		"options": ["curva pronunciada en 'S'.", "curva pronunciada.", "desvío a la derecha.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "depresion.jpg"
+		},
+		"options": ["puente próximo.", "lomo de burro.", "depresión."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "doble-circulacion.jpg"
+		},
+		"options": ["doble circulación.", "a contramano.", "calle flechada.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "estacionamiento-reglamentado.jpg"
+		},
+		"options": ["estacionamento privado.", "prohibido estacionar y detenerse.", "prohibido estacionar.", "estacionamiento reglamentado."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "giro-izquierda-solamente.jpg"
+		},
+		"options": ["prohibido girar a la izquierda.", "giro a la izquierda solamente.", "desvío obligatorio a la izquierda.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "interseccion-de-vias.jpg"
+		},
+		"options": ["intersección de vías.", "hospital en inmediaciones.", "paso de ambulancias.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "interseccion-rotatoria.jpg"
+		},
+		"options": ["giro en 'U' obligatorio.", "intersección rotatoria/rotonda.", "zona de reciclaje.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "lomo-de-burro.jpg"
+		},
+		"options": ["lomo de burro.", "depresión", "camino áspero.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "paso-a-nivel-con-barrera.jpg"
+		},
+		"options": ["paso a nivel sin barrera.", "carril de tranvías", "paso a nivel con barrera.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "paso-a-nivel-sin-barrera.jpg"
+		},
+		"options": ["paso a nivel sin barrera.", "carril de tranvías", "paso a nivel con barrera.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "paso-de-peatones.jpg"
+		},
+		"options": ["paso de peatones.", "paso de escolares.", "obras.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "paso-maquina-agricola.jpg"
+		},
+		"options": ["carril solo para maquinaria pesada.", "obras próximas.", "paso de ganado.", "paso de maquinaria agrícola."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "pendiente-peligrosa-bajada.jpg"
+		},
+		"options": ["pendiente peligrosa (bajada).", "depresión.", "pendiente peligrosa (subida).", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "pendiente-peligrosa-subida.jpg"
+		},
+		"options": ["pendiente peligrosa (bajada).", "depresión.", "pendiente peligrosa (subida).", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-adelantar.jpg"
+		},
+		"options": ["prohibido adelantar.", "prohibido estacionar en doble fila.", "carril único.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 3,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-estacionar.jpg"
+		},
+		"options": ["prohibido estacionar y detenerse", "prohibido detenerse", "estacionamiento tarifado", "prohibido estacionar."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-paso-de-automotores.jpg"
+		},
+		"options": ["prohibido el paso de automotores.", "a contramano.", "prohibido estacionar.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-paso-de-bicicletas.jpg"
+		},
+		"options": ["prohibido dejar bicicletas apoyadas.", "prohibido el paso de bicicletas.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-paso-de-maquinaria-agricola.jpg"
+		},
+		"options": ["prohibido estacionar maquinaria.", "prohibido el paso de maquinaria agrícola.", "prohibido el paso de camiones.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-paso-de-peatones.jpg"
+		},
+		"options": ["prohibido el paso de ciclomotores.", "prohibido cruzar en la siguiente intersección.", "prohibido el paso de peatones.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-paso-de-traccion-sangre.jpg"
+		},
+		"options": ["prohibido el paso de tracción a sangre.", "prohibido el cruce de ganado.", "prohibido el paso de maquinaria pesada.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-paso-de-traccion-sangre.jpg"
+		},
+		"options": ["prohibido el paso de tracción a sangre.", "prohibido el cruce de ganado.", "prohibido el paso de maquinaria pesada.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-paso-de-traccion-sangre.jpg"
+		},
+		"options": ["prohibido el paso de tracción a sangre.", "prohibido el cruce de ganado.", "prohibido el paso de maquinaria pesada.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-paso-vehiculos-de-carga.jpg"
+		},
+		"options": ["prohibido el paso vehículos de carga.", "prohibido el paso de maquinaria agrícola.", "prohibido el paso de maquinaria pesada.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "prohibido-seguir-adelante.jpg"
+		},
+		"options": ["a contramano.", "prohibido seguir adelante/dirección prohibida.", "calle sin salida.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "proximidad-de-semaforos.jpg"
+		},
+		"options": ["proximidad de semáforos.", "semáforos descompuestos.", "gente en obras.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 2,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "puente-estrecho.jpg"
+		},
+		"options": ["supresión de carriles.", "carril único.", "puente angosto.", "carril estrecho."]
+	}, {
+		"rightAnswer": 0,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "puente-movil.jpg"
+		},
+		"options": ["puente móvil.", "pase a nivel con barrera.", "puente próximo.", "ninguna de las anteriores."]
+	}, {
+		"rightAnswer": 1,
+		"question": {
+			"text": "¿Qué significa esta señal?",
+			"img": "tranvia.jpg"
+		},
+		"options": ["paso a nivel.", "señal de tranvía.", "peligro de trenes.", "ninguna de las anteriores."]
+	}]
+}
