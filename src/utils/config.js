@@ -1,6 +1,6 @@
 export const testConfig = {
     //The amount of responses required before showing the results.
-    requiredAnswers: 2,
+    requiredAnswers: 30,
     //The minimum score to pass the test.
     minimumScore: 25,
     

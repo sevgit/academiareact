@@ -28,7 +28,7 @@ statusCheck() {
       return <SingleQuestion 
                 question={questionnaire[step].question.text} 
                 options={questionnaire[step].options} 
-                img={null} 
+                img={questionnaire[step].question.img} 
                 rightAnswer={questionnaire[step].rightAnswer}/>
     } else if (questionnaire.length < 1) {
       return <Spinner />

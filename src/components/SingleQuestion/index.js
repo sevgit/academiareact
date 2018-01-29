@@ -42,7 +42,7 @@ handleClick(e, key) {
       <div className="singleQuestion">
       
         <p className="singleQuestion__question">{this.props.question}</p>
-        {this.props.img ? <img src={this.props.img}/> : null}
+        {this.props.img ? <img src={`http://academialomas.com.uy/simulador/img/${this.props.img}`}/> : null}
         <div className="singleQuestion__optionList">
         {this.props.options.map((value,index) => 
           
