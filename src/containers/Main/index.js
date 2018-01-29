@@ -26,10 +26,10 @@ statusCheck() {
 
     if (questionnaire.length > 1 && step < testConfig.requiredAnswers) {
       return <SingleQuestion 
-                question={questionnaire[step].pregunta} 
-                answers={questionnaire[step].respuestas} 
+                question={questionnaire[step].question.text} 
+                options={questionnaire[step].options} 
                 img={null} 
-                correcta={questionnaire[step].correctas}/>
+                rightAnswer={questionnaire[step].rightAnswer}/>
     } else if (questionnaire.length < 1) {
       return <Spinner />
     } else {
@@ -38,10 +38,10 @@ statusCheck() {
   }
   componentDidMount() {
     const db = firebase.database();
-    const preguntas = db.ref('preguntas');
+    const questionnaire = db.ref('questionnaire');
     
     
-    firefunctions.fetchQuestions(preguntas).then(data => this.props.setQuestions(data.val().preguntas.slice(0,30)))
+    firefunctions.fetchQuestions(questionnaire).then(data => this.props.setQuestions(data.val().slice(0,30)))
     
   }
   

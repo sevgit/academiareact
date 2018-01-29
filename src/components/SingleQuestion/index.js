@@ -44,7 +44,7 @@ handleClick(e, key) {
         <p className="singleQuestion__question">{this.props.question}</p>
         {this.props.img ? <img src={this.props.img}/> : null}
         <div className="singleQuestion__optionList">
-        {this.props.answers.map((value,index) => 
+        {this.props.options.map((value,index) => 
           
           <SingleOption key={index} index={index} option={value} onClick={(e) => this.handleClick(e, index)}  />
         )}

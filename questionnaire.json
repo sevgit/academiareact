@@ -1,5 +1,5 @@
 {
-	"preguntas": [{
+	"questionnaire": [{
 		"rightAnswer": 1,
 		"question": {
 			"text": "¿Cómo se señaliza un giro hacia la derecha en caso de tener el señalero averiado?",

@@ -10,8 +10,8 @@ const Footer = (props) => {
         
         <ul>
             <li>Real de Azúa M.70 S. 6 Solymar Norte - Canelones - Uruguay</li>
-            <li>Telefono: <span class="brand">2695 71 34*</span></li>
-            <li>Movil: <span class="brand">099 17 23 23</span> -- <span class="brand">095 73 23 23</span></li>
+            <li>Telefono: <span className="brand">2695 71 34*</span></li>
+            <li>Movil: <span className="brand">099 17 23 23</span> -- <span className="brand">095 73 23 23</span></li>
           </ul>
         
       </div>

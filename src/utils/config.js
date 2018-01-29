@@ -8,10 +8,10 @@ export const testConfig = {
     
 }
 export const firebaseConfig = {
-    authDomain: "academia-lomas.firebaseapp.com",
-    apiKey: "AIzaSyDBZolyXfLHcyc24j_rUsPJigvXMmcnnLM",
-    databaseURL: "https://academia-lomas.firebaseio.com",
-    projectId: "academia-lomas",
-    storageBucket: "academia-lomas.appspot.com",
-    messagingSenderId: "537654016832"
+    authDomain: "react-582b5.firebaseapp.com",
+    apiKey: "AIzaSyCMBn2q4iPCWFQ9tZQspLnFbGD0nkDUBcE",
+    databaseURL: "https://react-582b5.firebaseio.com",
+    projectId: "react-582b5",
+    storageBucket: "react-582b5.appspot.com",
+    messagingSenderId: "449732610030"    
 }

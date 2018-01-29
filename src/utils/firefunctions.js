@@ -1,16 +1,17 @@
 export const fetchQuestions = (dbref) => {
-  let preguntas = dbref.once('value', gotData, errData);
+  let questionnaire = dbref.once('value', gotData, errData);
   
 
   function gotData(data) {
     
-    preguntas = data.val();
+    questionnaire = data.val();
+    
   }
 
   function errData(err) {
-    preguntas = undefined
+    questionnaire = undefined
     console.log(err)
   }
-  return preguntas
+  return questionnaire
 }
 

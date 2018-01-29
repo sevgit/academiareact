@@ -11,7 +11,7 @@ function scoreCard(q, a) {
   let scoreCard = 0;
   
  a.map((value,index) => {
-  if(q[index].correctas === value) {
+  if(q[index].rightAnswer === value) {
     scoreCard = scoreCard +1;
   }
 }) 
@@ -29,12 +29,12 @@ const Header = (props) => {
       <ul>
           {props.answersArray.map((value, index) => 
                     /**/
-                     props.questionnaire[index].correctas === value ? 
+                     props.questionnaire[index].rightAnswer === value ? 
                      null :
                      <li key={index} className="results__li">
-                     {props.questionnaire[index].pregunta} <br /> 
+                     {props.questionnaire[index].question.text} <br /> 
                      <span className="results__correctSpan">Respuesta correcta: </span>
-                     <span className="results__correctAnswer">{props.questionnaire[index].respuestas[props.questionnaire[index].correctas]}</span>
+                     <span className="results__correctAnswer">{props.questionnaire[index].options[props.questionnaire[index].rightAnswer]}</span>
                      </li>)}
       </ul>
      
